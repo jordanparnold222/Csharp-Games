@@ -1,0 +1,15 @@
+E:\visual studio\source\PersonalProjects\Games\TicTacToe_Console\TicTacToe_Console\TicTacToe_Console\bin\Release\net6.0\TicTacToe_Console.exe
+E:\visual studio\source\PersonalProjects\Games\TicTacToe_Console\TicTacToe_Console\TicTacToe_Console\bin\Release\net6.0\TicTacToe_Console.deps.json
+E:\visual studio\source\PersonalProjects\Games\TicTacToe_Console\TicTacToe_Console\TicTacToe_Console\bin\Release\net6.0\TicTacToe_Console.runtimeconfig.json
+E:\visual studio\source\PersonalProjects\Games\TicTacToe_Console\TicTacToe_Console\TicTacToe_Console\bin\Release\net6.0\TicTacToe_Console.dll
+E:\visual studio\source\PersonalProjects\Games\TicTacToe_Console\TicTacToe_Console\TicTacToe_Console\bin\Release\net6.0\TicTacToe_Console.pdb
+E:\visual studio\source\PersonalProjects\Games\TicTacToe_Console\TicTacToe_Console\TicTacToe_Console\obj\Release\net6.0\TicTacToe_Console.csproj.AssemblyReference.cache
+E:\visual studio\source\PersonalProjects\Games\TicTacToe_Console\TicTacToe_Console\TicTacToe_Console\obj\Release\net6.0\TicTacToe_Console.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio\source\PersonalProjects\Games\TicTacToe_Console\TicTacToe_Console\TicTacToe_Console\obj\Release\net6.0\TicTacToe_Console.AssemblyInfoInputs.cache
+E:\visual studio\source\PersonalProjects\Games\TicTacToe_Console\TicTacToe_Console\TicTacToe_Console\obj\Release\net6.0\TicTacToe_Console.AssemblyInfo.cs
+E:\visual studio\source\PersonalProjects\Games\TicTacToe_Console\TicTacToe_Console\TicTacToe_Console\obj\Release\net6.0\TicTacToe_Console.csproj.CoreCompileInputs.cache
+E:\visual studio\source\PersonalProjects\Games\TicTacToe_Console\TicTacToe_Console\TicTacToe_Console\obj\Release\net6.0\TicTacToe_Console.dll
+E:\visual studio\source\PersonalProjects\Games\TicTacToe_Console\TicTacToe_Console\TicTacToe_Console\obj\Release\net6.0\refint\TicTacToe_Console.dll
+E:\visual studio\source\PersonalProjects\Games\TicTacToe_Console\TicTacToe_Console\TicTacToe_Console\obj\Release\net6.0\TicTacToe_Console.pdb
+E:\visual studio\source\PersonalProjects\Games\TicTacToe_Console\TicTacToe_Console\TicTacToe_Console\obj\Release\net6.0\TicTacToe_Console.genruntimeconfig.cache
+E:\visual studio\source\PersonalProjects\Games\TicTacToe_Console\TicTacToe_Console\TicTacToe_Console\obj\Release\net6.0\ref\TicTacToe_Console.dll
